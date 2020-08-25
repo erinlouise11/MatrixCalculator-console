@@ -1,9 +1,9 @@
 # MatrixCalculator-console
 
-Matrix addition, subtraction and multiplication (console version)
+COnsole based version of a matrix calculator. It does addition, subtraction and multiplication operations. 
 
-This is a basic console based applications to do simple matrix operations.
+## Running the application
 
-To run: Download .ZIP and run the solution(.sln) file through Visual Studio. 
+This program needs to be run through Visual Studio. Once you have downloaded the .zip, open the .sln file in VS and you can run it from there. 
 
-This is primarily for open source use. 
+*This was just a quick preoject I did for fun*
