@@ -1,6 +1,6 @@
 # MatrixCalculator-console
 
-COnsole based version of a matrix calculator. It does addition, subtraction and multiplication operations. 
+Console based version of a matrix calculator. It does addition, subtraction and multiplication operations. 
 
 ## Running the application
 
